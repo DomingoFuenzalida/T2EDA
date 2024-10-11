@@ -1,0 +1,3 @@
+/home/domingo-fuenzalida/EDA/T2_EDA/app/imagepro/CMakeFiles/imagepro.dir
+/home/domingo-fuenzalida/EDA/T2_EDA/app/imagepro/CMakeFiles/edit_cache.dir
+/home/domingo-fuenzalida/EDA/T2_EDA/app/imagepro/CMakeFiles/rebuild_cache.dir
